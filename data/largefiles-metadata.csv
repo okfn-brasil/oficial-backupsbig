@@ -1,5 +1,7 @@
-categororia,tag,filename,youtubeID,origin-type,title,license,author-username,notes-process,notes
-reuniao,okbr-oficial,2017-04-04-original-cIGTCgTwzTM.mkv,cIGTCgTwzTM,gravacao,,cc-by,(coletivo),"responsável, Conselho e Ariel",Tópico 4886 do DiscussOKBR. Salvo como EPUB uma hora e meia após término da reunião.
-evento,,2015-09-25-editado-r_NqCHAybrI.mkv,r_NqCHAybrI,original_edicao,Democracia e Internet – Criando uma cultura de participação política no século XXI,cc-by,(coletivo),,
-webinar,,2017-02-21-original-SaVQKVuUBU4.mkv,SaVQKVuUBU4,gravacao,,cc-by,(coletivo),"responsável, OKBr e Fernanda",
-webinar,prj-gastos_abertos,2017-04-18-original--AEjCPUif2s.mkv,-AEjCPUif2s,gravacao,Webinário Gastos Abertos,cc-by,(coletivo),"responsável, OKBr, Thiago e Márcia",Missão 
+categororia,tag,filename,license,title,youtubeID,origin-type,author-username,notes-process,notes,url-stream
+reuniao,okbr-oficial,2017-04-04-original-cIGTCgTwzTM.mkv,cc-by,,cIGTCgTwzTM,gravação com transmissão ao vivo,(coletivo),"responsável, Conselho e Ariel",Tópico 4886 do DiscussOKBR. Salvo como EPUB uma hora e meia após término da reunião.,https://www.youtube.com/watch?v=cIGTCgTwzTM
+evento,,2015-09-25-editado-r_NqCHAybrI.mkv,cc-by,Democracia e Internet – Criando uma cultura de participação política no século XXI,r_NqCHAybrI,original e sua edição,(coletivo),,,https://www.youtube.com/watch?v=r_NqCHAybrI
+webinar,ciclo1,2017-02-21-original-SaVQKVuUBU4.mkv,cc-by,Webinário bruto - Fernanda Campagnucci fala sobre dados abertos e governos locais,SaVQKVuUBU4,gravação com transmissão ao vivo,(coletivo),"responsável, OKBr e Fernanda",Fernanda Campagnucci fala sobre dados abertos e governos locais,https://www.youtube.com/watch?v=SaVQKVuUBU4
+webinar,prj-gastos_abertos,2017-04-18-original--AEjCPUif2s.mkv,cc-by,"Webinário - Gastos Abertos, missão 3",-AEjCPUif2s,gravação com transmissão ao vivo,(coletivo),"responsável, OKBr, Thiago e Márcia",Missão ,https://www.youtube.com/watch?v=-AEjCPUif2s
+,,,,,,,,,,
+webinar,ciclo1,2017-02-21-editado-SqwVrj_0BLc.mkv,cc-by,Webinário - Fernanda Campagnucci fala sobre dados abertos e governos locais,SqwVrj_0BLc,gravação com transmissão ao vivo,(coletivo),editado pela OKBr,anunciado em https://br.okfn.org/2017/06/14/primeiro-ciclo-webinarios-disponivel-youtube/,https://www.youtube.com/watch?v=SqwVrj_0BLc
